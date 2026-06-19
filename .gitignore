@@ -1,1 +1,6 @@
+.DS_Store
+.vscode
 .idea
+public/
+.hugo_build.lock
+resources/
